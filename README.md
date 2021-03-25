@@ -9,7 +9,7 @@ Collaboration of Dennis Tye and Kenneth Doan were done through Bitbucket.
 - Kenneth Doan - UI, SendEmail class
 2.	Title of project: Enneagram Quiz
 3.	Purpose of Project
-This project is an Enneagram test that allows users to select one of two choices depending on which statement they relate to the most. This program calculates the percent match the user is to each Enneagram type and provides the user with descriptions of each enneagram type. By taking the enneagram test, the user will know their enneagram based on the highest percentage they score for one or more enneagram types.
+This project is an Enneagram test that allows users to select one of two choices depending on which statement they relate to the most. This program calculates the percent match the user is to each Enneagram type and provides the user with descriptions of each enneagram type. By taking the enneagram test, the user will know their enneagram based on the highest percentage they score for one or more enneagram types. The user then can send their results to their personal email to keep a copy of their results.
 
 Usage Notes:
 
