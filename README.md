@@ -4,9 +4,9 @@ This project is an updated version of the original Enneagram Quiz Donavie Ordone
 Collaboration of Dennis Tye and Kenneth Doan were done through Bitbucket.
 
 1.	Team Members and responsibilities of each:
-Donavie Ordonez - UI, enneagram quiz research, typeAnswers class and database connection
-Dennis Tye - UI, InputValidation and VerifyEmail class
-Kenneth Doan - UI, SendEmail class
+- Donavie Ordonez - UI, enneagram quiz research, typeAnswers class and database connection
+- Dennis Tye - UI, InputValidation and VerifyEmail class
+- Kenneth Doan - UI, SendEmail class
 2.	Title of project: Enneagram Quiz
 3.	Purpose of Project
 This project is an Enneagram test that allows users to select one of two choices depending on which statement they relate to the most. This program calculates the percent match the user is to each Enneagram type and provides the user with descriptions of each enneagram type. By taking the enneagram test, the user will know their enneagram based on the highest percentage they score for one or more enneagram types.
